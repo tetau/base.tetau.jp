@@ -42,7 +42,6 @@
 
     <div class="pg_base__wrap">
 
-
         <div role="banner" id="header" class="pg_base__header">
         </div>
 
